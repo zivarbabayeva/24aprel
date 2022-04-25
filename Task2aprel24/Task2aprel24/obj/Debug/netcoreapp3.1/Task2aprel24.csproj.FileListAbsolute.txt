@@ -1,0 +1,14 @@
+C:\Users\LEGION\source\repos\Task2aprel24\Task2aprel24\obj\Debug\netcoreapp3.1\Task2aprel24.csproj.AssemblyReference.cache
+C:\Users\LEGION\source\repos\Task2aprel24\Task2aprel24\obj\Debug\netcoreapp3.1\Task2aprel24.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\LEGION\source\repos\Task2aprel24\Task2aprel24\obj\Debug\netcoreapp3.1\Task2aprel24.AssemblyInfoInputs.cache
+C:\Users\LEGION\source\repos\Task2aprel24\Task2aprel24\obj\Debug\netcoreapp3.1\Task2aprel24.AssemblyInfo.cs
+C:\Users\LEGION\source\repos\Task2aprel24\Task2aprel24\obj\Debug\netcoreapp3.1\Task2aprel24.csproj.CoreCompileInputs.cache
+C:\Users\LEGION\source\repos\Task2aprel24\Task2aprel24\bin\Debug\netcoreapp3.1\Task2aprel24.exe
+C:\Users\LEGION\source\repos\Task2aprel24\Task2aprel24\bin\Debug\netcoreapp3.1\Task2aprel24.deps.json
+C:\Users\LEGION\source\repos\Task2aprel24\Task2aprel24\bin\Debug\netcoreapp3.1\Task2aprel24.runtimeconfig.json
+C:\Users\LEGION\source\repos\Task2aprel24\Task2aprel24\bin\Debug\netcoreapp3.1\Task2aprel24.runtimeconfig.dev.json
+C:\Users\LEGION\source\repos\Task2aprel24\Task2aprel24\bin\Debug\netcoreapp3.1\Task2aprel24.dll
+C:\Users\LEGION\source\repos\Task2aprel24\Task2aprel24\bin\Debug\netcoreapp3.1\Task2aprel24.pdb
+C:\Users\LEGION\source\repos\Task2aprel24\Task2aprel24\obj\Debug\netcoreapp3.1\Task2aprel24.dll
+C:\Users\LEGION\source\repos\Task2aprel24\Task2aprel24\obj\Debug\netcoreapp3.1\Task2aprel24.pdb
+C:\Users\LEGION\source\repos\Task2aprel24\Task2aprel24\obj\Debug\netcoreapp3.1\Task2aprel24.genruntimeconfig.cache

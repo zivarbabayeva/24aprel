@@ -1,0 +1,14 @@
+C:\Users\LEGION\source\repos\24aprel\24aprel\bin\Debug\netcoreapp3.1\24aprel.exe
+C:\Users\LEGION\source\repos\24aprel\24aprel\bin\Debug\netcoreapp3.1\24aprel.deps.json
+C:\Users\LEGION\source\repos\24aprel\24aprel\bin\Debug\netcoreapp3.1\24aprel.runtimeconfig.json
+C:\Users\LEGION\source\repos\24aprel\24aprel\bin\Debug\netcoreapp3.1\24aprel.runtimeconfig.dev.json
+C:\Users\LEGION\source\repos\24aprel\24aprel\bin\Debug\netcoreapp3.1\24aprel.dll
+C:\Users\LEGION\source\repos\24aprel\24aprel\bin\Debug\netcoreapp3.1\24aprel.pdb
+C:\Users\LEGION\source\repos\24aprel\24aprel\obj\Debug\netcoreapp3.1\24aprel.csproj.AssemblyReference.cache
+C:\Users\LEGION\source\repos\24aprel\24aprel\obj\Debug\netcoreapp3.1\24aprel.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\LEGION\source\repos\24aprel\24aprel\obj\Debug\netcoreapp3.1\24aprel.AssemblyInfoInputs.cache
+C:\Users\LEGION\source\repos\24aprel\24aprel\obj\Debug\netcoreapp3.1\24aprel.AssemblyInfo.cs
+C:\Users\LEGION\source\repos\24aprel\24aprel\obj\Debug\netcoreapp3.1\24aprel.csproj.CoreCompileInputs.cache
+C:\Users\LEGION\source\repos\24aprel\24aprel\obj\Debug\netcoreapp3.1\24aprel.dll
+C:\Users\LEGION\source\repos\24aprel\24aprel\obj\Debug\netcoreapp3.1\24aprel.pdb
+C:\Users\LEGION\source\repos\24aprel\24aprel\obj\Debug\netcoreapp3.1\24aprel.genruntimeconfig.cache
